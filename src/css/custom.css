@@ -35,4 +35,7 @@
   background-position: center;
   background-image: url("/static/img/sand.png");
   min-height: 40vh;
+
+  --ifm-hero-background-color: transparent;
+  --ifm-hero-text-color: var(--ifm-font-color-base-inverse);
 }

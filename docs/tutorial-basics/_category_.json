@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Sandsfjorden - et overblikk",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "5 minutter til å se over fjorden."
   }
 }

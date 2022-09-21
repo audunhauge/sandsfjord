@@ -60,7 +60,7 @@ const config = {
         title: 'LSL',
         logo: {
           alt: 'LSL LOGO',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://www.facebook.com/groups/431794948156761/',
             label: 'Facebook',
             position: 'right',
           },

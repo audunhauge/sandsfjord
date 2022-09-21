@@ -4,18 +4,9 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'En fjord i endring',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Sandsfjorden er i endring. Ny planer legges som vil endre hele fjorden 
-        og påvirke miljøet for alle som har tilhold rundt denne.
-      </>
-    ),
-  },
-  {
     title: 'Beskytt fjorden',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/sandsfjord_ok.svg').default,
+    //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Hva kan vi gjøre i felleskap for å bevare fjorden vår.
@@ -23,8 +14,20 @@ const FeatureList = [
     ),
   },
   {
+    title: 'En fjord i endring',
+    Svg: require('@site/static/img/sandsfjord_bad.svg').default,
+    //Png: require('@site/static/img/logo.png').default,
+    description: (
+      <>
+        Sandsfjorden er i endring. Ny planer legges som vil endre hele fjorden 
+        og påvirke miljøet for alle som har tilhold rundt denne.
+      </>
+    ),
+  },
+  
+  {
     title: 'Sammen står vi sterkt',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/sandsfjord_bra.svg').default,
     description: (
       <>
         Organisasjonen LSL gjør det mulig for oss å nå fram
