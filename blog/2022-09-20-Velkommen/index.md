@@ -2,7 +2,8 @@
 slug: Velkommen
 title: Velkommen
 authors: [audun]
-tags: [ hello, ]
+tags: [ ns, ]
 ---
 
-Dette er en test på blog
+Tester ut bloggen og hvordan legge til bilder.
+![Example banner](sand.png)
