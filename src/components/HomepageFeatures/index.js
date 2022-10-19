@@ -5,11 +5,11 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Beskytt fjorden',
-    Svg: require('@site/static/img/sandsfjord_ok.svg').default,
+    Svg: require('@site/static/img/badsad.svg').default,
     //Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Hva kan vi gjøre i felleskap for å bevare fjorden vår.
+        Hva kan vi gjøre i felleskap for å bevare fjorden vår?
       </>
     ),
   },
